@@ -32,7 +32,7 @@ My goal is to evolve into a **Data Scientist** and eventually into an **AI/ML En
 
 ## 💻 Data Science Projects  
 
-- 🏏 **Cricbuzz Live Dashboard** – Real-time cricket updates using Python, APIs & Streamlit  
+- 🏏 **Cricbuzz LiveStats** – Real-time cricket updates using Python, APIs & Streamlit  
 (More Data Science projects coming soon…)  
 
 ---
