@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vignesh  
 
 🎯 **Aspiring Data Scientist | Future AI/ML Engineer**  
-📍 India | 📧 vignesh246v@gmail.com
+📍 India | 📧 vignesh246v@gmail.com |
 [LinkedIn](https://www.linkedin.com/in/vignesh246v-ds/) |
 
 ---
