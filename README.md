@@ -96,7 +96,77 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ## 🎯 Featured Projects
 
-*(You can later replace the `#` links with real ones)*
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚨 PatrolIQ - Smart Safety Analytics Platform
+**Domain:** Public Safety and Urban Analytics  
+**Tech Stack:** Python • Streamlit • ML • Clustering • MLflow  
+**Key Features:**
+- Unsupervised Learning & Geographic Data Analysis
+- Dimensionality Reduction & Data Visualization
+- Real-time Safety Pattern Detection
+
+🔗 [Live Demo](#) | 📂 [Repository](#)
+
+</td>
+<td width="50%">
+
+### 💰 EMIPredict AI - Financial Risk Assessment
+**Domain:** FinTech and Banking  
+**Tech Stack:** Python • Streamlit • ML • MLflow  
+**Key Features:**
+- Classification & Regression Models
+- Feature Engineering & Data Preprocessing
+- Intelligent Risk Scoring System
+
+🔗 [Live Demo](#) | 📂 [Repository](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Amazon India: Decade of Sales Analytics
+**Domain:** E-Commerce Analytics  
+**Tech Stack:** Python • Pandas • SQL • Power BI  
+**Key Features:**
+- Data Cleaning & Statistical Analysis
+- Business Intelligence Dashboards
+- Matplotlib & Seaborn Visualizations
+
+🔗 [Live Demo](#) | 📂 [Repository](#)
+
+</td>
+<td width="50%">
+
+### 🏏 Cricbuzz LiveStats: Real-Time Cricket Insights
+**Domain:** Sports Analytics  
+**Tech Stack:** Python • SQL • Streamlit • REST API  
+**Key Features:**
+- Real-time Data Extraction via API
+- SQL-Based Analytics Engine
+- JSON Data Processing & Visualization
+
+🔗 [Live Demo](#) | 📂 [Repository](#)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
