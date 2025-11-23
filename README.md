@@ -132,14 +132,12 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 Contribution Graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIGNESH246A/VIGNESH246A/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIGNESH246A/VIGNESH246A/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/VIGNESH246A/VIGNESH246A/output/github-contribution-grid-snake.svg">
-</picture>
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH246A&theme=react-dark&hide_border=true)
+
 </div>
 
 ---
