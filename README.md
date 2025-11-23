@@ -10,8 +10,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh246v-ds/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vignesh246v@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vignesha246)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIGNESH246A)
 
 </div>
 
@@ -40,7 +40,6 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 ✔ Machine Learning & Predictive Modeling  
 ✔ LLM Apps (RAG, Prompt Engineering, LangChain)  
 ✔ End-to-End Project Development & Deployment  
-
 
 </div>
 
@@ -97,89 +96,22 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚨 PatrolIQ - Smart Safety Analytics Platform
-**Domain:** Public Safety and Urban Analytics  
-**Tech Stack:** Python • Streamlit • ML • Clustering • MLflow  
-**Key Features:**
-- Unsupervised Learning & Geographic Data Analysis
-- Dimensionality Reduction & Data Visualization
-- Real-time Safety Pattern Detection
-
-🔗 [Live Demo](#) | 📂 [Repository](#)
-
-</td>
-<td width="50%">
-
-### 💰 EMIPredict AI - Financial Risk Assessment
-**Domain:** FinTech and Banking  
-**Tech Stack:** Python • Streamlit • ML • MLflow  
-**Key Features:**
-- Classification & Regression Models
-- Feature Engineering & Data Preprocessing
-- Intelligent Risk Scoring System
-
-🔗 [Live Demo](#) | 📂 [Repository](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 Amazon India: Decade of Sales Analytics
-**Domain:** E-Commerce Analytics  
-**Tech Stack:** Python • Pandas • SQL • Power BI  
-**Key Features:**
-- Data Cleaning & Statistical Analysis
-- Business Intelligence Dashboards
-- Matplotlib & Seaborn Visualizations
-
-🔗 [Live Demo](#) | 📂 [Repository](#)
-
-</td>
-<td width="50%">
-
-### 🏏 Cricbuzz LiveStats: Real-Time Cricket Insights
-**Domain:** Sports Analytics  
-**Tech Stack:** Python • SQL • Streamlit • REST API  
-**Key Features:**
-- Real-time Data Extraction via API
-- SQL-Based Analytics Engine
-- JSON Data Processing & Visualization
-
-🔗 [Live Demo](#) | 📂 [Repository](#)
-
-</td>
-</tr>
-</table>
-
-</div>
+*(You can later replace the `#` links with real ones)*
 
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIGNESH246A&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH246A&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH246A&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </div>
 
 ---
@@ -187,7 +119,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 # 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH246A&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 </div>
 
 ---
@@ -195,7 +127,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 # 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VIGNESH246A&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 ---
@@ -204,9 +136,9 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIGNESH246A/VIGNESH246A/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIGNESH246A/VIGNESH246A/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/VIGNESH246A/VIGNESH246A/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
@@ -223,12 +155,26 @@ Feel free to reach out — I reply fast.
 
 ### 🔗 Connect With Me
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vignesh246v-ds/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
+
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">
+
+<a href="mailto:vignesh246v@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.kaggle.com/vignesha246">
+  <img src="https://skillicons.dev/icons?i=kaggle" width="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/VIGNESH246A">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <br><br>
