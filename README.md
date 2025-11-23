@@ -118,7 +118,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 - Dimensionality Reduction & Data Visualization
 - Real-time Safety Pattern Detection
 
-🔗 [Live Demo](#) | 📂 [Repository](#)
+🔗 [Live Demo](#) | 📂 [Repository](https://github.com/VIGNESH246A/EMI_Predict_AI)
 
 </td>
 <td width="50%">
