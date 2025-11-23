@@ -158,23 +158,9 @@ Feel free to reach out — I reply fast.
 <a href="https://www.linkedin.com/in/vignesh246v-ds/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="mailto:vignesh246v@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.kaggle.com/vignesha246">
-  <img src="https://skillicons.dev/icons?i=kaggle" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/VIGNESH246A">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <br><br>
