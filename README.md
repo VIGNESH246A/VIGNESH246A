@@ -94,10 +94,6 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
 <table>
 <tr>
 <td width="50%">
