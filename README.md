@@ -17,7 +17,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -166,7 +166,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -182,7 +182,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH246A&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
@@ -190,7 +190,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=VIGNESH246A&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
@@ -198,7 +198,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
