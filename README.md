@@ -132,21 +132,6 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 
 ---
 
-# 📊 Contributions
-
-<div align="center">
-
-✨ Tracking my journey of consistency, learning, and improvement.
-
-<br>
-
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=VIGNESH246A&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
