@@ -127,7 +127,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 - Feature Engineering & Data Preprocessing
 - Intelligent Risk Scoring System
 
-🔗 [Live Demo](#) | 📂 [Repository](#)
+🔗 [Live Demo](https://emipredictai-4l99bbuzz5jyinjtpxv4bf.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/EMI_Predict_AI)
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 - Business Intelligence Dashboards
 - Matplotlib & Seaborn Visualizations
 
-🔗 [Live Demo](#) | 📂 [Repository](#)
+📂 [Repository](https://github.com/VIGNESH246A/amazon-india-2015-to-2025-sales-analytics-dashboard)
 
 </td>
 <td width="50%">
@@ -156,7 +156,7 @@ I completed the **Master Data Science Program (GUVI · IITM Pravartak · HCL)** 
 - SQL-Based Analytics Engine
 - JSON Data Processing & Visualization
 
-🔗 [Live Demo](#) | 📂 [Repository](#)
+🔗 [Live Demo](https://cricbuzzlivestats-app.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Cricbuzz_livestats)
 
 </td>
 </tr>
