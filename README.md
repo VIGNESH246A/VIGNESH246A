@@ -212,22 +212,6 @@ I specialize in the complete AI/ML lifecycle:
 <tr>
 <td width="50%">
 
-#### 💰 EMIPredict AI - Financial Risk Assessment
-**Intelligent classification & regression for loan default prediction**
-
-**Tech Stack:** Python • Scikit-learn • MLflow • Streamlit  
-**Highlights:**
-- Dual ML functionality (Classification + Regression)
-- End-to-end MLflow experiment tracking
-- Advanced feature engineering
-- Risk scoring system with 400K records
-- Production deployment with CRUD operations
-
-🔗 [Live Demo](https://emipredictai-4l99bbuzz5jyinjtpxv4bf.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/EMI_Predict_AI)
-
-</td>
-<td width="50%">
-
 #### 🚨 PatrolIQ - Smart Safety Analytics
 **Unsupervised learning for urban safety analysis**
 
@@ -240,6 +224,22 @@ I specialize in the complete AI/ML lifecycle:
 - Model versioning with MLflow
 
 🔗 [Live Demo](https://chicago-crime-analytics-patroliq-bp57cn2n9t7eoyvcmvqmx6.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Chicago-Crime-Analytics-PatrolIQ)
+
+</td>
+<td width="50%">
+
+#### 💰 EMIPredict AI - Financial Risk Assessment
+**Classification & regression for loan default prediction**
+
+**Tech Stack:** Python • Scikit-learn • MLflow • Streamlit  
+**Highlights:**
+- Ensemble classification models
+- Advanced feature engineering
+- Risk scoring system
+- Model tracking with MLflow
+- Production deployment
+
+🔗 [Live Demo](https://emipredictai-4l99bbuzz5jyinjtpxv4bf.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/EMI_Predict_AI)
 
 </td>
 </tr>
@@ -282,34 +282,14 @@ I specialize in the complete AI/ML lifecycle:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIGNESH246A&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH246A&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH246A&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH246A&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VIGNESH246A&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH246A&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </div>
 
 ---
