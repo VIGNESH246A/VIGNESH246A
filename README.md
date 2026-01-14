@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vignesh A
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Gen+AI+Engineer+%7C+Data+Scientist;RAG+Architect+%7C+Agentic+AI+Builder;ML+Practitioner+%7C+AI+Enthusiast;Transforming+Data+into+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Generative+AI+%7C+Data+Science;AI%2FML+Developer+%7C+RAG+Architect;Agentic+AI+Builder+%7C+ML+Engineer;Building+Intelligent+AI+Systems" />
 
 </div>
 
@@ -21,26 +21,14 @@
 
 <div align="center">
 
-**🤖 Gen AI Engineer | Data Scientist | Agentic Systems Architect**  
+**Generative AI | Data Science | AI/ML Developer**  
 
-Building production-grade AI systems that solve real-world problems — from intelligent RAG pipelines to autonomous multi-agent workflows and predictive analytics.
+Building intelligent AI systems that solve real-world problems — from enterprise RAG pipelines to autonomous multi-agent workflows and predictive analytics solutions.
 
 I specialize in the complete AI/ML lifecycle:  
 **Data Analysis → RAG Systems → Agentic AI → Machine Learning → MLOps → Deployment**
 
 </div>
-
-### 💡 My Focus Areas
-
-```python
-expertise = {
-    "generative_ai": ["RAG Pipelines", "Prompt Engineering", "Multi-Agent Systems", "LangChain/LangGraph"],
-    "agentic_ai": ["Autonomous Workflows", "Tool Calling", "Multi-Agent Orchestration", "State Management"],
-    "data_science": ["Predictive Modeling", "Statistical Analysis", "Feature Engineering", "EDA"],
-    "ml_engineering": ["Model Development", "MLOps", "Model Deployment", "Experimentation"],
-    "cloud_deployment": ["AWS", "Streamlit", "FastAPI", "Docker"]
-}
-```
 
 ### 🎯 What Sets Me Apart
 
@@ -294,89 +282,15 @@ expertise = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIGNESH246A&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH246A&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH246A&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</div>
-
----
-
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH246A&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VIGNESH246A&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH246A&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </div>
-
----
-
-## 💼 What I Bring to the Table
-
-```python
-class GenAIEngineer:
-    def __init__(self):
-        self.name = "Vignesh A"
-        self.role = "Gen AI Engineer | Data Scientist"
-        
-    def core_competencies(self):
-        return {
-            "agentic_ai": [
-                "Multi-agent system architecture",
-                "LangGraph workflow orchestration",
-                "Autonomous task decomposition",
-                "Tool calling & function execution"
-            ],
-            "rag_systems": [
-                "Enterprise-grade RAG pipelines",
-                "Vector database optimization",
-                "Hallucination control mechanisms",
-                "Semantic search & retrieval"
-            ],
-            "generative_ai": [
-                "Prompt engineering & optimization",
-                "Model evaluation & benchmarking",
-                "Cost-effective inference",
-                "Production deployment"
-            ],
-            "data_science": [
-                "Predictive modeling & analytics",
-                "Statistical analysis & hypothesis testing",
-                "Feature engineering",
-                "Data visualization"
-            ],
-            "mlops": [
-                "Model versioning (MLflow)",
-                "CI/CD for ML models",
-                "Docker containerization",
-                "Cloud deployment (AWS)"
-            ]
-        }
-    
-    def production_mindset(self):
-        return [
-            "Build systems that scale, not just demos",
-            "Proper error handling & logging",
-            "User-centric design",
-            "Clean, maintainable code",
-            "Documentation & testing"
-        ]
-```
 
 ---
 
@@ -411,6 +325,6 @@ Looking for challenging roles in AI/ML Engineering, Gen AI Development, or Data 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
 
-### ⭐ If you find my projects interesting, let's connect and build something amazing!
+### ⭐ Interested in my work? Let's collaborate and create something impactful together!
 
 </div>
