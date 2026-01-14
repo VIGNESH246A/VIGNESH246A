@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh246v-ds/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh246v-ai-engineer/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vignesh246v@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vignesha246)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/VIGNESH246A)
@@ -135,7 +135,7 @@ I specialize in the complete AI/ML lifecycle:
 - Tool execution (file ops, Python, calculations)
 - CLI + Streamlit interfaces
 
-🔗 [Live Demo](https://genagent-pro-agentic-ai-workflow-hxjfvucfnkubzabfj32pnn.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/GenAgent-Pro)
+🔗 [Live Demo](https://genagent-pro-agentic-ai-workflow-hxjfvucfnkubzabfj32pnn.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/GenAgent-Pro-Agentic-AI-Workflow)
 
 </td>
 <td width="50%">
@@ -404,7 +404,7 @@ Looking for challenging roles in AI/ML Engineering, Gen AI Development, or Data 
 
 ### 🔗 Reach Out
 
-<a href="https://www.linkedin.com/in/vignesh246v-ds/">
+<a href="https://www.linkedin.com/in/vignesh246v-ai-engineer/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 &nbsp;&nbsp;
