@@ -48,27 +48,44 @@ I specialize in the complete AI/ML lifecycle:
 
 <div align="center">
 
-### 🤖 Generative AI & RAG
+### 🤖 Generative AI & LLM Engineering
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Anthropic Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 
-**Vector Databases & Embeddings**  
+**RAG & Vector Databases**  
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge&logo=weaviate&logoColor=white)
+
+**LLM Tools & Frameworks**  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white)
+![LLM Fine-tuning](https://img.shields.io/badge/Fine--Tuning-7B68EE?style=for-the-badge&logo=ai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-4A90E2?style=for-the-badge&logo=vectorworks&logoColor=white)
+![Agent Framework](https://img.shields.io/badge/Agent_Framework-FF4B4B?style=for-the-badge&logo=robot&logoColor=white)
 
 ---
 
-### 🧠 Machine Learning & Data Science
+### 🧠 Machine Learning & Classical ML
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-00599C?style=for-the-badge&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black)
+
+---
+
+### 🔥 Deep Learning & Neural Networks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-9B59B6?style=for-the-badge&logo=neural&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-3498DB?style=for-the-badge&logo=convolutional&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
@@ -79,22 +96,33 @@ I specialize in the complete AI/ML lifecycle:
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-### ☁️ MLOps & Deployment
+### ☁️ MLOps & Production Deployment
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Deployment Frameworks**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 </div>
 
@@ -206,10 +234,89 @@ I specialize in the complete AI/ML lifecycle:
 
 ---
 
+### 🔥 Deep Learning & Neural Networks
+
+<table>
+<tr>
+<td width="50%">
+
+#### 👁️ SmartVision AI - Computer Vision System
+**Multi-object detection & classification using YOLOv8 and CNNs**
+
+**Tech Stack:** YOLOv8 • CNN • TensorFlow • Streamlit  
+**Highlights:**
+- Multi-object detection in real-time
+- 25 real-world COCO classes
+- CNN model comparison (VGG16, ResNet50, MobileNet, EfficientNet)
+- Bounding boxes with confidence scores
+- Webcam live detection support
+
+🔗 [Live Demo](#) | 📂 [Repository](https://github.com/VIGNESH246A/SmartVision-AI)
+
+</td>
+<td width="50%">
+
+#### 🏗️ Helmet Detection System
+**Real-time safety monitoring for construction sites**
+
+**Tech Stack:** YOLOv8 • OpenCV • SQLite • Streamlit  
+**Highlights:**
+- Real-time detection (25-30 FPS)
+- Multi-camera support (RTSP, CCTV, Webcam)
+- Automated violation alerts & snapshots
+- CLAHE low-light enhancement
+- Compliance analytics dashboard
+
+🔗 [Live Demo](#) | 📂 [Repository](https://github.com/VIGNESH246A/Helmet-Detection)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🤝 Customer Support System
+**LSTM & Random Forest classification with RAG chatbot**
+
+**Tech Stack:** LSTM • Random Forest • RAG • Streamlit  
+**Highlights:**
+- Dual model classification (RF/LSTM)
+- Actionable message detection
+- RAG-powered response generation
+- FAISS vector search integration
+- Real-time conversation management
+
+🔗 [Live Demo](https://ntptwygoz34ofkupgb5wxi.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Customer-Support-RAG)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 Data Science & Machine Learning
 
 <table>
 <tr>
+<td width="50%">
+
+#### 💰 EMIPredict AI - Financial Risk Assessment
+**Intelligent classification & regression for loan default prediction**
+
+**Tech Stack:** Python • Scikit-learn • MLflow • Streamlit  
+**Highlights:**
+- Dual ML functionality (Classification + Regression)
+- End-to-end MLflow experiment tracking
+- Advanced feature engineering
+- Risk scoring system with 400K records
+- Production deployment with CRUD operations
+
+🔗 [Live Demo](https://emipredictai-4l99bbuzz5jyinjtpxv4bf.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/EMI_Predict_AI)
+
+</td>
 <td width="50%">
 
 #### 🚨 PatrolIQ - Smart Safety Analytics
@@ -224,22 +331,6 @@ I specialize in the complete AI/ML lifecycle:
 - Model versioning with MLflow
 
 🔗 [Live Demo](https://chicago-crime-analytics-patroliq-bp57cn2n9t7eoyvcmvqmx6.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Chicago-Crime-Analytics-PatrolIQ)
-
-</td>
-<td width="50%">
-
-#### 💰 EMIPredict AI - Financial Risk Assessment
-**Classification & regression for loan default prediction**
-
-**Tech Stack:** Python • Scikit-learn • MLflow • Streamlit  
-**Highlights:**
-- Ensemble classification models
-- Advanced feature engineering
-- Risk scoring system
-- Model tracking with MLflow
-- Production deployment
-
-🔗 [Live Demo](https://emipredictai-4l99bbuzz5jyinjtpxv4bf.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/EMI_Predict_AI)
 
 </td>
 </tr>
@@ -282,14 +373,34 @@ I specialize in the complete AI/ML lifecycle:
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIGNESH246A&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH246A&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH246A&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH246A&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH246A&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VIGNESH246A&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 ---
