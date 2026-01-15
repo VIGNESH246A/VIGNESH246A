@@ -176,7 +176,7 @@ I specialize in the complete AI/ML lifecycle:
 - Hot reload for document updates
 - FastAPI backend architecture
 
-🔗 [Live Demo](https://enterprise-document-ai-assistant-rpegwwkqedqzufzfmsa9u7.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Enterprise-Document-AI)
+🔗 [Live Demo](https://enterprise-document-ai-assistant-rpegwwkqedqzufzfmsa9u7.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Enterprise-Document-AI-Assistant)
 
 </td>
 <td width="50%">
@@ -192,7 +192,7 @@ I specialize in the complete AI/ML lifecycle:
 - Query history tracking
 - Real-time performance monitoring
 
-🔗 [Live Demo](https://policy---invoice-rag-system-yuf5dwgqvw4d3remzazkem.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Policy-Invoice-RAG)
+🔗 [Live Demo](https://policy---invoice-rag-system-yuf5dwgqvw4d3remzazkem.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Policy---Invoice-RAG-System)
 
 </td>
 </tr>
@@ -211,7 +211,7 @@ I specialize in the complete AI/ML lifecycle:
 - Conversation history management
 - Real-time classification
 
-🔗 [Live Demo](https://ntptwygoz34ofkupgb5wxi.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Customer-Support-RAG)
+🔗 [Live Demo](https://ntptwygoz34ofkupgb5wxi.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/AI-Powered-Customer-Intelligence-System-Actionable-Message-NLP-Classification-RAG-Chatbot)
 
 </td>
 <td width="50%">
@@ -239,7 +239,7 @@ I specialize in the complete AI/ML lifecycle:
 - Bounding boxes with confidence scores
 - Webcam live detection support
 
-🔗 [Live Demo](#) | 📂 [Repository](https://github.com/VIGNESH246A/SmartVision-AI)
+🔗 📂 [Repository](https://github.com/VIGNESH246A/SmartVision_AI)
 
 </td>
 <td width="50%">
@@ -255,7 +255,7 @@ I specialize in the complete AI/ML lifecycle:
 - CLAHE low-light enhancement
 - Compliance analytics dashboard
 
-🔗 [Live Demo](#) | 📂 [Repository](https://github.com/VIGNESH246A/Helmet-Detection)
+🔗 📂 [Repository](https://github.com/VIGNESH246A/Real-Time-Helmet-Detection-Construction-Site-Safety-Monitoring-System)
 
 </td>
 </tr>
@@ -274,7 +274,7 @@ I specialize in the complete AI/ML lifecycle:
 - FAISS vector search integration
 - Real-time conversation management
 
-🔗 [Live Demo](https://ntptwygoz34ofkupgb5wxi.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/Customer-Support-RAG)
+🔗 [Live Demo](https://ntptwygoz34ofkupgb5wxi.streamlit.app/) | 📂 [Repository](https://github.com/VIGNESH246A/AI-Powered-Customer-Intelligence-System-Actionable-Message-NLP-Classification-RAG-Chatbot)
 
 </td>
 <td width="50%">
